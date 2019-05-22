@@ -17,7 +17,7 @@ public class Java_1st_project {
     public static void main(String[] args) {
         // TODO code application logic here
         
-        System.out.print("this is my first java project");
+        System.out.print("this is my first java");
     }
     
 }
